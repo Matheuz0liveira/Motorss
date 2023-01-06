@@ -38,7 +38,7 @@ footer >.container  {
 
 }
 nav {
-    background-color: #575fcf;
+    background-color: #6c83bd3f;
     padding: 16px 0;
     display: none;
 }
@@ -49,7 +49,7 @@ nav li {
     margin-right: 16px;
     font-size: 18px;
     font-weight: bold;
-    text-transform: uppercase;
+    /*text-transform: uppercase; */
 }
 
 nav li a {
